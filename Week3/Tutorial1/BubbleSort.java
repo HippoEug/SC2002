@@ -5,21 +5,23 @@ public class BubbleSort {
 		int[] a = new int[100];
 		int n, i;
 		
-		System.out.println("Enter number of Integer elements to be sorted: ");
+		System.out.print("\n\n Enter number of Integer elements to be sorted: ");
 		Scanner sc = new Scanner(System.in);
 		n = sc.nextInt();
 		
 		for (i=0; i<=(n-1); i++) {
-			System.out.println("\nEnter integer value for element no." + i + " : ");
+			System.out.print("\n Enter integer value for element no." + i + " : ");
 			a[i] = sc.nextInt();
 		}
 		
 		bubble(a, n);
 		
-		System.out.println("\n\nFinally sorted array is: ");
+		System.out.print("\n\n Finally sorted array is: ");
 		for (i=0; i<=(n-1); i++) {
-			System.out.println(a[i] + " ");
+			System.out.print(a[i] + " ");
 		}
+		
+		sc.close();
 	}
 	
 	public static void bubble(int[] a, int n) { 
