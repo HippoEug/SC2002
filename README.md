@@ -12,3 +12,6 @@
 #### Week 6
 - [Tutorial 3](https://github.com/HippoEug/SC2002/tree/main/Tutorial3)
 - [Lab 2](https://github.com/HippoEug/SC2002/tree/main/Lab2)
+
+#### Week 7
+- [Tutorial 4](https://github.com/HippoEug/SC2002/tree/main/Tutorial4)
