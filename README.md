@@ -17,4 +17,5 @@
 - [Tutorial 4](https://github.com/HippoEug/SC2002/tree/main/Tutorial4)
 
 #### Week 8
+- [Tutorial 5](https://github.com/HippoEug/SC2002/tree/main/Tutorial5)
 - Lab 3
