@@ -21,7 +21,7 @@
 - [Lab 3](https://github.com/HippoEug/SC2002/tree/main/Lab3)
 
 #### Week 10
-- [Lab 4]((https://github.com/HippoEug/SC2002/tree/main/Lab4)
+- [Lab 4](https://github.com/HippoEug/SC2002/tree/main/Lab4)
 
 #### Week 12
-- [Lab 5]((https://github.com/HippoEug/SC2002/tree/main/Lab5)
+- [Lab 5](https://github.com/HippoEug/SC2002/tree/main/Lab5)
