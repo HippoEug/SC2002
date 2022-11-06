@@ -18,4 +18,10 @@
 
 #### Week 8
 - [Tutorial 5](https://github.com/HippoEug/SC2002/tree/main/Tutorial5)
-- Lab 3
+- [Lab 3](https://github.com/HippoEug/SC2002/tree/main/Lab3)
+
+#### Week 10
+- [Lab 4]((https://github.com/HippoEug/SC2002/tree/main/Lab4)
+
+#### Week 12
+- [Lab 5]((https://github.com/HippoEug/SC2002/tree/main/Lab5)
